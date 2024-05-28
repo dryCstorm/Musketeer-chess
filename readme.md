@@ -4,5 +4,4 @@
 
 # Launch game
 
-    cd Musketeer-chess-tester
     python3 main.py
