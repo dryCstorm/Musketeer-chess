@@ -1,7 +1,7 @@
-# Install pygame
+# How to start?
+Place library inside library directory
 
-    pip install pygame
+* Clone https://github.com/dryCstorm/Musketeer-chess-library.git to library directory
+* Place all files from Muskeeteer_Chess_Library to parent
 
-# Launch game
-
-    python3 main.py
+Launch by using ``python3 main.py``
