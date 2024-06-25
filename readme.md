@@ -28,6 +28,18 @@ You can also customize **direction** and **length**:
 
 ![Customize Notations](readme/Screenshot%202024-06-20%20143603.png)
 
+#### Examples:
+- **Leopard: NF**
+- **Unicorn: NW2F2**
+- **Dragon: FN**
+- **Amazon: WFN**
+- **Chancellor: WN**
+- **Elephant: FD**
+- **Crab: ffNbsN**
+- **Eagle: fFfsWbF2bR**
+- **Champion: WDA**
+- **Fad: FAD**
+
 ## Playing
 
 1. **Select Where to Place Custom Pieces:**
